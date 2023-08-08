@@ -1,8 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thorung Boonkaew
-========================================================================================================================================
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="350"/>
+</div>
 
-Undergraduate Software and Knowledge Engineering Student, Kasetsart University
-------------------------------------------------------------------------------
+<div align="center">
+  <h1>Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> My name is Thorung Boonkaew</h1>
+</div>
+
+<div align="center">
+  <h2>Undergraduate Software and Knowledge Engineering Student, Kasetsart University</h2>
+</div>
 
 * ✉️  You can contact me at [thorungboonmail@gmail.com](mailto:thorungboonmail@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
