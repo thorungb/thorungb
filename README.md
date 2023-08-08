@@ -10,27 +10,26 @@
   <h2>Undergraduate Software and Knowledge Engineering Student, Kasetsart University</h2>
 </div>
 
-* ✉️  You can contact me at [thorungboonmail@gmail.com](mailto:thorungboonmail@gmail.com)
-* 🤝  I'm open to collaborating on interesting projects
+### :woman_technologist: About Me :
+* 📖  Now I am a second-year Software and Knowledge Engineering student at Kasetsart University (ske20)
+* 🌟  Concentrate hard on developing my programming skills
+* ⚡  I'm open to collaborating on interesting projects
 
-### Skills
+### :woman_technologist: About Me : 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/tb.rainyrung/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/agustxq)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thorung-boonkaew-359452269) 
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-</p>
+### 🔥 My GitHub Stats :
 
-
-### Socials
-
-<p align="left"> <a href="https://www.facebook.com/tb.rainyrung" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/thorungb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/agustxq" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/thorungb"><img src="https://github-readme-stats.vercel.app/api?username=thorungb&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="thorungb's GitHub stats" /></a>
-
-<a href="https://github.com/thorungb" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thorungb&langs_count=10&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thorungb&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thorungb&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
