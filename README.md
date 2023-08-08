@@ -14,8 +14,9 @@
 * 📖  Now I am a second-year Software and Knowledge Engineering student at Kasetsart University (ske20)
 * 🌟  Concentrate hard on developing my programming skills
 * ⚡  I'm open to collaborating on interesting projects
+* ✉️   [thorungboonmail@gmail.com](mailto:thorungboonmail@gmail.com)
 
-### :woman_technologist: About Me : 
+### ☎️ : Contact Me : 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/tb.rainyrung/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/agustxq)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thorung-boonkaew-359452269) 
