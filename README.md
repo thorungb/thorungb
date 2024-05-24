@@ -11,26 +11,22 @@
 </div>
 
 ### :woman_technologist: About Me :
-* 📖  Now I am a second-year Software and Knowledge Engineering student at Kasetsart University (ske20)
+* 📖  Now I am a third-year Software and Knowledge Engineering student at Kasetsart University (ske20)
 * 🌟  Concentrate hard on developing my programming skills
-* ⚡  I'm open to collaborating on interesting projects
-* ✉️   [thorungboonmail@gmail.com](mailto:thorungboonmail@gmail.com)
+* ⚡  I'm open to collaborating on interesting projects  
 
 ### ☎️ : Contact Me : 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/tb.rainyrung/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/agustxq)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thorung-boonkaew-359452269) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thorung-boonkaew-359452269) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thorungboonmail@gmail.com) 
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div>
 
 
 ### 🔥 My GitHub Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thorungb&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thorungb&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Thorung's GitHub stats](https://github-readme-stats.vercel.app/api?username=thorungb&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thorungb&layout=compact)
