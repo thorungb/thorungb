@@ -11,6 +11,7 @@
 </div>
 
 ### :woman_technologist: About Me :
+* 🌱  I’m currently learning Deep learning
 * 📖  Now I am a third-year Software and Knowledge Engineering student at Kasetsart University (ske20)
 * 🌟  Concentrate hard on developing my programming skills
 * ⚡  I'm open to collaborating on interesting projects  
