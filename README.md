@@ -11,11 +11,12 @@
 </div>
 
 ### :woman_technologist: About Me :
-* 🌱  I’m currently learning Machine learning and Web development
+* 🌱  I’m currently learning Data Analytics and Web development
 * 📖  Now I am a third-year Software and Knowledge Engineering student at Kasetsart University (ske20)
 * 🌟  Concentrate hard on developing my programming skills
 * ⚡  I'm open to collaborating on interesting projects
-* 🍁  https://band-voyage-6e6.notion.site/long-life-learning-but-die-fast-52b06267ca284efc8fa6f06e6586803b?pvs=4  
+* 🍁  https://band-voyage-6e6.notion.site/long-life-learning-but-die-fast-52b06267ca284efc8fa6f06e6586803b?pvs=4
+* 📌 My CV [here](https://docs.google.com/document/d/1y2RTqvHojgJ6BPB2cMC-oheldPTASpQa6KUPj0tkXAU/edit?usp=sharing)
 
 ### ☎️ : Contact Me : 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thorung-boonkaew-359452269) 
