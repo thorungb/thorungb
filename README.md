@@ -11,7 +11,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-* 📖  third-year Software and Knowledge Engineering student at Kasetsart University (ske20)
+* 📖  Software and Knowledge Engineering student at Kasetsart University (ske20)
 * ⚡  I'm open to collaborating on interesting projects
 
 ### ☎️ : Contact Me : 
